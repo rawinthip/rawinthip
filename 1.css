@@ -1,0 +1,255 @@
+#OOP{
+    margin: 0 auto;
+    width: 75%;
+    height: 100%;
+    border: 1px solid black;
+}
+header{
+	margin: 0 auto;
+    width: 100%;
+    height: 200px;
+    border: 1px solid block;
+}
+.box{
+    float: left;
+    margin: 0 auto;
+    width: 20%;
+    height: 200px;
+    border: 1px solid block;
+}
+.box2{
+    float: right;
+    margin: 0 auto;
+    width: 50%;
+    height: 200px;
+    border: 1px solid block;
+    text-align: right
+}
+.box3{
+    float: right;
+    width: 50%;
+    height: 600px;
+    border: 1px solid block;
+    text-align: left
+}
+.box0{
+    border-radius: 9px/9px;
+}
+nav ul {
+    margin: 6px auto;
+    list-style-type: none;
+    width: cover;
+    height: auto;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(221, 26, 133);
+}
+#se0 {
+    margin: 0 auto;
+    width: 75%;
+    height: auto;
+    background-size: 100%;
+    background-color:rgb(253, 185, 197);
+}
+#se1{
+    margin: 0 auto;
+    width: 75%;
+    height: auto;
+    background-size: cover;
+    background-image: url(img/we.jpg);
+}
+#se2{
+    margin: 0 auto;
+    width: 75%;
+    height: auto;
+    background-size: cover;
+    background-color:rgb(109, 40, 236);
+}
+#se3{
+    margin: 0 auto;
+    width: 75%;
+    height: auto;
+    background-size:  cover;
+    background-image:url(img/we.jpg);
+}
+#se4{
+    margin: 0 auto;
+    width: 75%;
+    height: auto;
+    background-size:  cover;
+    background-color:rgb(33, 3, 88);
+}
+#se5{
+    margin: 0 auto;
+    width: 75%;
+    height: auto;
+    background-size:  cover;
+    background-color:rgb(228, 47, 173);
+}
+#se6{
+    margin: 0 auto;
+    width: 75%;
+    height: auto;
+    background-size:  cover;
+    background-color:rgb(33, 3, 88);
+}
+#se7{
+    margin: 0 auto;
+    width: 75%;
+    height: auto;
+    background-size:  cover;
+    background-image:url(img/gr.jpg);
+}
+#se8{
+    margin: 0 auto;
+    width: 75%;
+    height: auto;
+    background-size:  cover;
+    background-color:rgb(33, 3, 88);
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid rgba(204, 204, 204, 0);
+    float: left;
+    width: 300px auto;
+    height: 2000px auto;
+    border-radius: 10px/10px;
+}
+
+div.gallery:hover {
+    border: 1px solid rgb(248, 248, 248);
+    border-radius: 10px/10px;
+}
+
+div.gallery img {
+    width: 100% auto;
+    height: auto;
+}
+
+div.desc {
+    margin: 0 auto;
+    margin-top: 3px;
+    width: 300px auto;
+    height: auto;
+    background: #ff237e;
+    padding: 15px;
+    text-align: center;
+    border-radius: 9px/9px;
+    font-size: 15px;
+    font-color:#FFFFFF;
+}
+div.desc2 {
+    margin: 0 auto;
+    margin-top: 3px;
+    width: 300px auto;
+    height: auto;
+    background: #ee4cd3;
+    padding: 15px;
+    text-align: center;
+    border-radius: 9px/9px;
+    font-size: 15px;
+    font-color:#FFFFFF;
+}
+.boxmanu{
+    margin: 0 auto;
+    font-color:rgb(255, 255, 255);
+    width: 100%;
+    height: 1800px;
+}
+.boxmanu2{
+    margin: 0 auto;
+    font-color:rgb(255, 255, 255);
+    width: 95%;
+    height: 11500px;
+}
+.boxmanu3{
+    margin: 0 auto;
+    font-color:rgb(255, 255, 255);
+    width: 95%;
+    height: 6100px;
+}
+#form1{left:1300px;
+    top:20px;
+    height:20px;
+    width:100px;
+    }
+#form2{left:1500px;
+    top:20px;
+    height:20px;
+    width:100px;}
+    #button1{
+        width:50px;
+        height:20px;
+        cursor:pointer;}
+
+    #submit1{
+        left:1700px;
+        top:30px;
+        height:25px;
+        width:50px;
+        }
+#img2{
+    top:150px;
+    left:160px;
+}
+#button2{
+    width:80px;
+    height:20px;
+    cursor:pointer;}
+
+#submit2{
+    left:1200px;
+    top:30px;
+    height:25px;
+    width:50px;
+    }
+#button3{
+    width:70px;
+    height:20px;
+     cursor:pointer;}
+
+ #submit3{
+     left:2500px;
+     top:30px;
+    height:25px;
+     width:50px;
+    }
+    #mailbox{width:400px;
+        height:30px;
+        border-radius:10px/10px;
+        background:white;
+        padding:10px;
+        font-size:20px;
+        }
+    #namebox{width:200px;
+        height:30px;
+        border-radius:10px/10px;
+        background:white;
+        padding:10px;
+        font-size:20px;
+    }
+    .button {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
